@@ -1,0 +1,42 @@
+body {
+    background-color: #D5E1EF; 
+    display: flex; 
+    height: 100vh; 
+    font-family: 'Outfit', sans-serif;
+}
+div {
+    background-color: white; 
+    width: 320px; 
+    margin: auto; 
+    padding: 16px; 
+    border-radius: 20px;
+}
+img {
+    max-width: 100%; 
+    border-radius: 10px
+}
+h1 {
+    font-size: 22px; 
+    text-align: center; 
+    font-weight: 700; 
+    line-height: 28px; 
+    display: block; 
+    width: 288px; 
+    height: 56px; 
+    margin-inline-start: 16px;
+}
+p{
+    font-size: 15px; 
+    text-align: center; 
+    color: #7D889E; 
+    font-weight: 400; 
+    line-height: 19px; 
+    letter-spacing: 0.1875px;
+    display: block; 
+    width: 256px; 
+    height: 57px; 
+    margin-right: 32px; 
+    margin-left: 32px; 
+    margin-bottom: 40px; 
+    margin-top: 16px;
+}
